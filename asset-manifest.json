@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/incredecre-react/static/css/main.c7acfc1a.css",
+    "main.js": "/incredecre-react/static/js/main.50dfd53a.js",
+    "index.html": "/incredecre-react/index.html",
+    "main.c7acfc1a.css.map": "/incredecre-react/static/css/main.c7acfc1a.css.map",
+    "main.50dfd53a.js.map": "/incredecre-react/static/js/main.50dfd53a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7acfc1a.css",
+    "static/js/main.50dfd53a.js"
+  ]
+}
